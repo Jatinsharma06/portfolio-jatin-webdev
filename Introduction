@@ -1,0 +1,58 @@
+# 🌐 Jatin Sharma – Portfolio Website
+
+Welcome to the official repository of my **personal portfolio website**, built to showcase my professional journey, technical skills, and key accomplishments in the field of Information Technology.
+
+## 🚀 About Me
+
+Hi, I'm **Jatin Sharma**, a passionate technologist and cloud enthusiast. I'm a recent graduate Bachelor of Technology in Information Technology from the **Global Institute of Technology**, where I hold the distinction of being the **department topper**.
+
+I have hands-on experience with:
+
+- **Programming Languages:** C, C++, Python, SQL, HTML, CSS, JavaScript
+- **Cloud & DevOps:** AWS, Linux, Docker, ECS, VPC, IAM, EC2
+- **Tools & Platforms:** MongoDB, Git, GitHub, React, Vite
+
+I've completed internships with **Learn and Build** and **LinuxWorld** that focused on real-world cloud solutions and deployments.
+
+---
+
+## 🛠️ Built With
+
+- **React.js** – UI framework
+- **Vite** – Lightning-fast build tool
+- **Tailwind CSS** – Utility-first styling
+- **JavaScript (ES6+)** – Dynamic behavior
+- **HTML5 & CSS3** – Structure and styling
+
+---
+
+## 📁 Folder Structure
+├── index.html
+├── assets/
+│ ├── index-.css
+│ └── index-.js
+├── res.pdf # My latest resume
+---
+
+## 📄 Features
+
+- Responsive and mobile-friendly design
+- Downloadable resume (PDF)
+- Clean, modern, and minimal interface
+- High-performance build using Vite
+
+---
+
+## 🌍 Live Demo
+
+> Coming Soon — Deployed on AWS Cloud (ECS, S3, Route 53)
+
+---
+
+## 📫 Contact
+
+- LinkedIn: [linkedin.com/in/jatin-sharma-engineer/](#)
+- Email: [jatinsharma61003@example.com](mailto:your.email@example.com)
+- Portfolio: [https://jatin-portfolio-webdev.netlify.app/](#)
+
+--
